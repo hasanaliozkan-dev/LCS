@@ -39,7 +39,7 @@ Michigan Tipi öğrenme sınıflandırıcı sistemi ilk olarak Holland tarafınd
 </br></br>
 **Adım 5:** Bu adımda eğer doğru kümesi boş ise sistem Kapsam(Coverage) mekanizmasını tekrar tetikler ve mevcut örnek sınıfıyla doğru eşleşen sınıflandırıcılar üretir. Bunun sonucunda eşleşme kümesi [M] ve doğru kümesi [C] güncellenir.
 </br></br>
-**Adım 6: **Eşleşme kümesindeki her bir eleman için bazı kural parametreleri güncellenir burada güncelleme yaparken elemanın doğru küme ya da yanlış kümeye ait olup olmadığı bir etkendir.
+**Adım 6:** Eşleşme kümesindeki her bir eleman için bazı kural parametreleri güncellenir burada güncelleme yaparken elemanın doğru küme ya da yanlış kümeye ait olup olmadığı bir etkendir.
 </br></br>
 **Adım 7:** Günümüzde içerme(subsumption) mekanizması çoğu sisteme eklenmektedir. Bu mekanizma eşleşme setindeki birebir aynı olan sınıflandırıcıları birleştirip teke düşürür bu adımın sonucunda da eşleşme seti [M] güncellenir.
 </br></br>
